@@ -36,5 +36,6 @@ pytesseract==0.3.6
 scikit-image==0.19.2
 scikit-learn==1.0.2
 scipy==1.7.3
-statsmodels
+patsy==0.5.2 
+statsmodels==0.13.2
 
