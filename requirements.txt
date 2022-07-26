@@ -32,6 +32,5 @@ plotly==5.6.0
 pytesseract==0.3.9
 scikit-image==0.19.2
 scikit-learn==1.0.2
-scikit-learn-intelex==2021.5.0
 scipy==1.7.3
 
