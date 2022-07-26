@@ -2,6 +2,7 @@ name: tesseract-ocr
 channels:
   - conda-forge
 dependencies:
+  - tesseract
   - pytesseract
   - ipykernel
   - ipywidgets
@@ -28,7 +29,6 @@ dependencies:
   - scikit-learn
   - scipy
   - pip:
-    - tesseract-ocr
     - jupyter-contrib-core
     - jupyter-contrib-nbextensions
     - jupyter-highlight-selected-word
