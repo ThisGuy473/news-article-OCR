@@ -27,6 +27,7 @@ numpy==1.21.5
 olefile==0.46
 opencv-python==4.6.0.66
 pandas
+tesseract-ocr
 pillow==9.0.1
 pip==21.2.4
 pipreqs==0.4.11
