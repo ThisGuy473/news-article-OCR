@@ -34,3 +34,5 @@ dependencies:
     - jupyter-latex-envs
     - jupyter-nbextensions-configurator
     - opencv-python
+    - statsmodels
+    - patsy
