@@ -1,0 +1,6 @@
+name: tesseract-ocr
+channels:
+  - conda-forge
+dependencies:
+  - tesseract
+  - pytesseract
