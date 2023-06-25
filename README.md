@@ -1,1 +1,1 @@
-# Capstone_OCR
+# news-article-OCR
